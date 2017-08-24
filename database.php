@@ -1,5 +1,5 @@
 <?php
-/**Code for readinf from database.
+/**Code for reading from database.
 */
 include_once 'config.php';
 class MyPDO {
